@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mern-Stack**
 
-- 👨‍💻 All of my projects are available at [https://kishan-portfolio.pages.dev/](https://kishan-portfolio.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://dev-kishan.vercel.app/](Dev-kishan.vercel.app/)
 
 - 💬 Ask me about **react,javsacript,frontend help**
 
